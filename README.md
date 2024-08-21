@@ -24,7 +24,7 @@ Read our blogs: https://talk.nervos.org/t/en-cn-misc-single-use-seals/8279
 
 We maintain open lines of communication with the CKB developer community. Whether it’s through forums, social media, or direct support, we’re here to listen to your feedback and help resolve any challenges you encounter while developing on CKB.
 
-Join the dev community: https://t.me/ckbdev
+Join the dev community: https://t.me/ckb_community/40890
 
 ### Development Courses
 

@@ -10,9 +10,9 @@ Our mission is to enhance the development experience for CKB developers while fo
 
 We develop a range of Software Development Kits (SDKs) to make building on CKB easier and more efficient for developers. Some of our key projects include:
 
-- **CCC:** https://github.com/ckb-ecofund/ccc
-- **Cinnabar:** https://github.com/ashuralyk/ckb-cinnabar
-- Spore Protocol: https://github.com/sporeprotocol
+- [**CCC**](https://github.com/ckb-devrel/ccc)
+- [**Cinnabar**](https://github.com/ashuralyk/ckb-cinnabar)
+- [Spore Protocol](https://github.com/sporeprotocol)
 
 ### Documentation & Blogs
 
@@ -24,7 +24,7 @@ Read our blogs: https://talk.nervos.org/t/en-cn-misc-single-use-seals/8279
 
 We maintain open lines of communication with the CKB developer community. Whether it’s through forums, social media, or direct support, we’re here to listen to your feedback and help resolve any challenges you encounter while developing on CKB.
 
-Join the dev community: https://t.me/ckb_community/40890
+Join the dev community: https://discord.gg/fzhrevP3P2
 
 ### Development Courses
 
@@ -49,4 +49,4 @@ We're all in this together! Share your code examples, collaborate with other dev
 
 ### Join CKB Dev Office Hour Every Wednesday
 
-https://discord.gg/MYavJ7Ph?event=1268155726321291355
+https://discord.gg/WKTHcfdtqX?event=1283414281882439731
